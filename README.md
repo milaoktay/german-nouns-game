@@ -1,5 +1,11 @@
 # German Nouns Flashcard Game
 
-React Typescript - Flashcards that test the user on the der/die/das article of German verbs
+A flashcards game, with TypeScript and React, that tests the user on the der/die/das articles of German nouns
+
+### Features
+
+- Show the noun's article on click
+- Mark as learned button
+- Show number of marked as learned on top of the page
 
 Concepts in use - functions, array methods, useEffect, useState, axios
